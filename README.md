@@ -24,3 +24,11 @@ git checkout main // 기본 브랜치가 main인 경우
 git checkout -b 브랜치이름
 ex) git checkout -b apply-feedback
 ```
+
+...
+참여자 이름 split하고 자동차 생성
+자동차 이름이 1이상 5이하 검증
+자동차 이동 유무
+자동차 이동 거리에 따라 "-" 생성
+횟수를 모두 시도한 후 우승자를 가림
+우승자 이름 출력
